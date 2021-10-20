@@ -1,0 +1,19 @@
+#EXTM3U
+
+#SOURCEIT
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xF3Sqym/gtv.jpg" group-title="Bangla",Gazi TV  (BDIX8)
+https://cdn.nowhdtime.com.bd/j-GTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2J6ks0/tsports.jpg" group-title="Bangla",T Sports  (BDIX8)
+https://cdn.nowhdtime.com.bd/j-TSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thjK1LT/channel9.png" group-title="Bangla",Channel 9 (BDIX0)
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcK3jYW/starsports2.jpg" group-title="Sports", Star Sports 2 (BDIX11)
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhH5qpN/hbo.jpg"  group-title="English Movies",HBO 
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
